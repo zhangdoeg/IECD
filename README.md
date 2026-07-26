@@ -1,5 +1,6 @@
 ## Internal-External Collaborative Decoupling for Fine-Grained Incremental Remote Sensing Object Detection
 Official Pytorch implementation for "Internal-External Collaborative Decoupling for Fine-Grained Incremental Remote Sensing Object Detection", ACM MM 2026.
+![image](./assets/IECD.png)
 
 ## 🚀Contributions
 - To the best of our knowledge, we are the first to formulate the fine-grained incremental remote sensing object detection task. By addressing the tight coupling between complex backgrounds and cross-temporal classes, we establish a baseline for this challenging task.
