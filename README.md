@@ -9,6 +9,9 @@ Official Pytorch implementation for "Internal-External Collaborative Decoupling 
 
 ## Get Started
 This repo is based on [MMRotate](https://github.com/open-mmlab/mmrotate) and [SkySense-O](https://github.com/zqcrafts/SkySense-O). Please follow the installation of [MMRotate Install](https://mmrotate.readthedocs.io/en/latest/install.html)/[SkySense-O Install](https://github.com/zqcrafts/SkySense-O#dependencies-and-installation) and make sure you can run them successfully.
+
+
+Method：build_model_SkySenseO (You need to implement it yourself, according to [SkySense-O Demo](https://github.com/zqcrafts/SkySense-O/blob/main/demo/readme.md))
 ```bash
 conda create -n IECD python=3.11 -y
 conda activate IECD
