@@ -34,12 +34,10 @@ Our code is based on the project [MMRotate](https://github.com/open-mmlab/mmrota
 Please cite our paper if this repo helps your research:
 
 ```bibtex
-@InProceedings{Yang_2026_MM,
-    author    = {},
+@InProceedings{Yang2026IECD,
+    author    = {Xi Yang, Hui Zhang, Jiachen Sun},
     title     = {Internal-External Collaborative Decoupling for Fine-Grained Incremental Remote Sensing Object Detection},
-    booktitle = {ACM MM},
-    month     = {},
-    year      = {2026},
-    pages     = {}
+    booktitle = {Proceedings of the ACM International Conference on Multimedia},
+    year      = {2026}
 }
 ```
